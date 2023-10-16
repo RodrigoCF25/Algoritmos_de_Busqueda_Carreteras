@@ -1,0 +1,846 @@
+﻿Ciudad 1,Costo de la ciudad 1,Coordenada X ciudad 1,Coordenada Y ciudad 1,Ciudad 2,Cosato de la ciudad 2,Coordenada X ciudad 2,Coordenada Y ciudad 2,Costo del enlace
+Aberdeen,5,3902,1510,Pierre,5,3653,1727,159
+Aberdeen,5,3902,1510,Watertown SD,5,4121,1606,105
+Acapulco,5,3970,7565,Chilpancingo,5,4039,7466,129
+Acayucan,5,4822,7370,Tehuantepec,5,4785,7629,201
+Acayucan,5,4822,7370,Tuxtla Gutierrez,5,5156,7523,275
+Acayucan,5,4822,7370,Villa Hermosa,5,5254,7254,236
+Agua Prieta,5,2160,4387,Santa Ana,5,1838,4499,236
+Aguascalientes,5,3410,6528,Guadalajara,5,3236,6794,250
+Aguascalientes,5,3410,6528,Guanajuato,5,3633,6765,82
+Albany,5,7458,1488,New York,5,7549,1877,159
+Albany,5,7458,1488,Scranton,5,7272,1810,184
+Albany,5,7458,1488,Syracuse,5,7112,1509,147
+Albuquerque,5,2666,3670,Socorro,5,2609,3873,78
+Albuquerque,5,2666,3670,Tucumcari,5,3135,3662,174
+Albuquerque,5,2666,3670,Vaughn,5,2891,3775,103
+Alexandria,5,5021,4388,Baton Rouge,5,5251,4545,128
+Alexandria,5,5021,4388,Lake Charles,5,4912,4620,98
+Alvarado,5,4686,7219,Acayucan,5,4822,7370,248
+Alvarado,5,4686,7219,Oaxaca,5,4483,7539,339
+Amarillo,5,3440,3647,Clovis,5,3226,3817,103
+Amarillo,5,3440,3647,Lubbock,5,3439,4012,118
+Amarillo,5,3440,3647,Vernon,5,3856,3863,171
+Asheville,5,6524,3228,Atlanta,5,6280,3650,206
+Asheville,5,6524,3228,Augusta,5,6679,3639,217
+Asheville,5,6524,3228,Charlotte,5,6861,3274,125
+Asheville,5,6524,3228,Chattanoga,5,6109,3410,227
+Asheville,5,6524,3228,Columbia,5,6811,3497,157
+Astoria,5,421,1008,Newport,5,318,1316,134
+Atlacomulco,5,3938,6934,Queretaro,5,3868,6765,120
+Atlanta,5,6280,3650,Augusta,5,6679,3639,151
+Atlanta,5,6280,3650,Birmigham,5,5888,3809,148
+Atlanta,5,6280,3650,Montgomery,5,6013,4028,167
+Atlanta,5,6280,3650,Savannah,5,6885,3887,252
+Atlanta,5,6280,3650,Tifton,5,6505,4099,182
+Atlantic City,5,7545,2177,Baltimore,5,7297,2242,148
+Atoka,5,4371,3791,Dallas,5,4276,4124,128
+Atoka,5,4371,3791,Texarkana,5,4714,3940,169
+Augusta,5,6679,3639,Charleston SC,5,7039,3701,112
+Augusta,5,6679,3639,Savannah,5,6885,3887,128
+Augusta,5,6679,3639,Tifton,5,6505,4099,203
+Austin,5,4138,4658,Houston,5,4549,4737,162
+Austin,5,4138,4658,San Antonio,5,4012,4842,83
+Austin,5,4138,4658,Victoria,5,4270,4956,122
+Bakersfield,5,695,3388,Barstow,5,999,3543,136
+Bakersfield,5,695,3388,Los Angeles,5,775,3677,112
+Baltimore,5,7297,2242,Washington,5,7212,2363,35
+Bangor,5,7967,835,HullsCove,5,8091,890,46
+Bangor,5,7967,835,Portland,5,7860,1131,132
+Barstow,5,999,3543,Los Angeles,5,775,3677,120
+Barstow,5,999,3543,Needles,5,1382,3603,144
+Barstow,5,999,3543,San Diego,5,919,3981,181
+Baton Rouge,5,5251,4545,Lake Charles,5,4912,4620,126
+Baton Rouge,5,5251,4545,New Orleans,5,5444,4615,80
+Bend,5,659,1526,Burns,5,962,1686,130
+Bend,5,659,1526,Klamath Falls,5,520,1873,139
+Bend,5,659,1526,Lakeview,5,759,1942,140
+Biggs,5,802,1213,Bend,5,659,1526,138
+Biggs,5,802,1213,Pendleton,5,1081,1258,107
+Bilings,5,2502,1417,Great Falls,5,2163,1026,222
+Bilings,5,2502,1417,Sheridan,5,2709,1640,130
+Birmigham,5,5888,3809,Columbus,5,5631,3853,118
+Birmigham,5,5888,3809,Meridian,5,5611,4094,146
+Birmigham,5,5888,3809,Mobile,5,5771,4427,262
+Birmigham,5,5888,3809,Montgomery,5,6013,4028,92
+Birmigham,5,5888,3809,Tifton,5,6505,4099,326
+Bishop,5,860,3002,Las Vegas,5,1335,3328,262
+Bishop,5,860,3002,Los Angeles,5,775,3677,267
+Bishop,5,860,3002,San Diego,5,919,3981,359
+Bismarck,5,3583,1238,Aberdeen,5,3902,1510,202
+Bismarck,5,3583,1238,Great Falls,5,2163,1026,548
+Bismarck,5,3583,1238,Mller City,5,2874,1317,272
+Bismarck,5,3583,1238,Pierre,5,3653,1727,213
+Bluefield,5,6650,2848,Asheville,5,6524,3228,233
+Bluefield,5,6650,2848,Columbia,5,6811,3497,261
+Blythe,5,1350,3846,Phoenix,5,1767,3923,144
+Blythe,5,1350,3846,Yuma,5,1333,4032,103
+Boise,5,1377,1740,Idaho Falls,5,1967,1855,281
+Boise,5,1377,1740,TwinFalls,5,1600,1998,130
+Boise,5,1377,1740,Winnemucca,5,1074,2264,256
+Bonners Ferry,5,1517,683,Missoula,5,1784,1115,249
+Bonners Ferry,5,1517,683,Spokane,5,1340,884,112
+Bonners Ferry,5,1517,683,Wet Glacier,5,1884,885,176
+Boston,5,7845,1429,Albany,5,7458,1488,166
+Boston,5,7845,1429,New York,5,7549,1877,211
+Boston,5,7845,1429,Newport,5,7892,1592,74
+Brownwood,5,3843,4316,Austin,5,4138,4658,139
+Brownwood,5,3843,4316,San Angelo,5,3670,4425,98
+Brownwood,5,3843,4316,San Antonio,5,4012,4842,189
+Buffalo,5,6755,1643,Cleveland,5,6409,2005,191
+Buffalo,5,6755,1643,Harrisburg,5,7159,2083,288
+Buffalo,5,6755,1643,Pittsburgh,5,6701,2161,217
+Buffalo,5,6755,1643,Scranton,5,7272,1810,289
+Burns,5,962,1686,Boise,5,1377,1740,187
+Burns,5,962,1686,Lakeview,5,759,1942,140
+Burns,5,962,1686,Winnemucca,5,1074,2264,220
+Butte,5,1955,1317,Idaho Falls,5,1967,1855,205
+Butte,5,1955,1317,Livingston,5,2181,1568,107
+Cairo,5,5433,3109,Corinth,5,5582,3550,167
+Cairo,5,5433,3109,Memphis,5,5337,3549,169
+Cairo,5,5433,3109,Nashville,5,5837,3228,177
+Cairo,5,5433,3109,Poplar Bluff,5,5248,3196,81
+Calais,5,8147,694,Bangor,5,7967,835,103
+Calais,5,8147,694,HullsCove,5,8091,890,117
+Campeche,5,5684,6810,Ciudad del Carmen,5,5527,7018,225
+Cancun,5,6238,6512,Valladolid,5,6023,6538,161
+Carlsbad,5,3119,4234,El Paso,5,2668,4318,165
+Carlsbad,5,3119,4234,Ft. Stockton,5,3273,4532,138
+Casper,5,2787,2059,Cheyenne,5,3003,2422,180
+Casper,5,2787,2059,North Platte,5,3435,2415,397
+Casper,5,2787,2059,Rawlins,5,2637,2276,118
+Casper,5,2787,2059,Sioux City,5,4227,2117,558
+Charleston SC,5,7039,3701,Savannah,5,6885,3887,105
+Charleston WV,5,6552,2638,Bluefield,5,6650,2848,112
+Charleston WV,5,6552,2638,Cleveland,5,6409,2005,250
+Charleston WV,5,6552,2638,Knoxville,5,6293,3195,314
+Charleston WV,5,6552,2638,Lexington,5,6123,2784,177
+Charleston WV,5,6552,2638,Roanoke,5,6851,2803,180
+Charlotte,5,6861,3274,Atlanta,5,6280,3650,240
+Charlotte,5,6861,3274,Columbia,5,6811,3497,91
+Chattanoga,5,6109,3410,Atlanta,5,6280,3650,115
+Chattanoga,5,6109,3410,Birmigham,5,5888,3809,143
+Chattanoga,5,6109,3410,Huntsville,5,5889,3551,106
+Chetumal,5,6066,6979,Campeche,5,5684,6810,350
+Chetumal,5,6066,6979,Felipe Carrillo Puerto,5,6122,6726,153
+Chetumal,5,6066,6979,Merida,5,5811,6550,301
+Cheyenne,5,3003,2422,Denver,5,2965,2706,100
+Cheyenne,5,3003,2422,Estes Park,5,2873,2583,88
+Chicago,5,5512,2095,Cairo,5,5433,3109,375
+Chicago,5,5512,2095,Davenport,5,5100,2204,177
+Chicago,5,5512,2095,Detroit,5,6166,1872,278
+Chicago,5,5512,2095,Ft. Wayne,5,5916,2189,163
+Chicago,5,5512,2095,Indianapolis,5,5808,2474,185
+Chicago,5,5512,2095,Peoria,5,5251,2375,170
+Chicago,5,5512,2095,Springfield IL,5,5267,2566,201
+Chihuahua,5,2717,4947,Janos,5,2378,4451,320
+Chihuahua,5,2717,4947,Juarez,5,2668,4320,354
+Chilpancingo,5,4039,7466,Iguala,5,4016,7312,100
+Cincinnati,5,6077,2557,Charleston WV,5,6552,2638,198
+Cincinnati,5,6077,2557,Lexington,5,6123,2784,82
+Cincinnati,5,6077,2557,Louisville,5,5924,2780,103
+Cincinnati,5,6077,2557,Toledo,5,6129,2021,210
+Cisco,5,3849,4194,Brownwood,5,3843,4316,48
+Cisco,5,3849,4194,Odessa,5,3338,4309,216
+Ciudad Altamirano,5,3807,7251,Cuernavaca,5,4060,7168,102
+Ciudad Altamirano,5,3807,7251,Toluca,5,3964,7062,180
+Ciudad Altamirano,5,3807,7251,Zihuatanejo,5,3683,7456,183
+Ciudad del Carmen,5,5527,7018,Villa Hermosa,5,5254,7254,168
+Ciudad Obregon,5,2038,5174,Guaymas,5,1902,5059,80
+Ciudad Victoria,5,4097,6134,Matamoros,5,4206,5555,269
+Ciudad Victoria,5,4097,6134,Soto la Marina,5,4210,6131,121
+Ciudad Victoria,5,4097,6134,Tampico,5,4208,6394,243
+Cleveland,5,6409,2005,Columbus,5,6277,2348,141
+Cleveland,5,6409,2005,Toledo,5,6129,2021,119
+Cleveland,5,6409,2005,Youngstown,5,6557,2081,76
+Clovis,5,3226,3817,Lubbock,5,3439,4012,104
+Clovis,5,3226,3817,Roswell,5,3000,4011,176
+Clovis,5,3226,3817,Vernon,5,3856,3863,250
+Cocoa,5,7106,4624,Daytona Beach,5,7018,4481,66
+Cocoa,5,7106,4624,Vero Beach,5,7187,4759,65
+Cody,5,2491,1667,Casper,5,2787,2059,214
+Colima,5,3161,7101,Morelia,5,3668,7030,315
+Colima,5,3161,7101,Playa Azul,5,3488,7309,250
+Columbia,5,6811,3497,Atlanta,5,6280,3650,213
+Columbia,5,6811,3497,Augusta,5,6679,3639,68
+Columbia,5,6811,3497,Charleston SC,5,7039,3701,112
+Columbia,5,6811,3497,Savannah,5,6885,3887,155
+Columbus,5,6277,2348,Charleston WV,5,6552,2638,167
+Columbus,5,6277,2348,Cincinnati,5,6077,2557,111
+Columbus,5,6277,2348,Indianapolis,5,5808,2474,178
+Columbus,5,5631,3853,Lake Village,5,5163,3946,183
+Columbus,5,5631,3853,Meridian,5,5611,4094,88
+Columbus,5,5631,3853,Montgomery,5,6013,4028,197
+Columbus,5,6277,2348,Washington,5,7212,2363,420
+Concord,5,7694,1286,Albany,5,7458,1488,150
+Concord,5,7694,1286,Boston,5,7845,1429,74
+Cordoba,5,4518,7139,Veracruz,5,4576,7072,70
+Corinth,5,5582,3550,Birmigham,5,5888,3809,223
+Corinth,5,5582,3550,Columbus,5,5631,3853,118
+Corinth,5,5582,3550,Huntsville,5,5889,3551,126
+Corpus Christi,5,4193,5160,Brownsville,5,4206,5550,159
+Corpus Christi,5,4193,5160,Laredo TX,5,3850,5231,187
+Craig,5,2573,2536,Denver,5,2965,2706,199
+Craig,5,2573,2536,Grand Junction,5,2416,2832,153
+Culiacan,5,2523,5878,Hidalgo del Parral,5,2659,5274,500
+Culiacan,5,2523,5878,Topolobampo,5,2233,5520,206
+Dakley,5,3524,2840,Dodge City,5,3716,3125,134
+Dakley,5,3524,2840,Great Bend,5,3907,2987,150
+Dakley,5,3524,2840,Hays,5,3762,2836,88
+Dakley,5,3524,2840,Kit Carson,5,3279,2926,112
+Dallas,5,4276,4124,Austin,5,4138,4658,195
+Dallas,5,4276,4124,Brownwood,5,3843,4316,157
+Dallas,5,4276,4124,Ft. Worth,5,4122,4122,30
+Dallas,5,4276,4124,Houston,5,4549,4737,244
+Dallas,5,4276,4124,Shreveport,5,4778,4127,186
+Davenport,5,5100,2204,Des Moines,5,4649,2263,168
+Davenport,5,5100,2204,Peoria,5,5251,2375,96
+Daytona Beach,5,7018,4481,Orlando,5,6953,4571,56
+Decorah,5,4877,1878,Dubuque,5,5037,2025,105
+Decorah,5,4877,1878,Hannibal,5,5017,2613,296
+Del Rio,5,3597,4844,San Antonio,5,4012,4842,156
+Denver,5,2965,2706,Dakley,5,3524,2840,253
+Denver,5,2965,2706,Durango CO,5,2499,3222,379
+Denver,5,2965,2706,Grand Junction,5,2416,2832,246
+Denver,5,2965,2706,Kit Carson,5,3279,2926,152
+Denver,5,2965,2706,Pueblo,5,3006,3017,109
+Des Moines,5,4649,2263,Albert Lea,5,4640,1828,148
+Des Moines,5,4649,2263,Hannibal,5,5017,2613,271
+Des Moines,5,4649,2263,Kansas City,5,4550,2806,194
+Des Moines,5,4649,2263,Omaha,5,4298,2366,135
+Des Moines,5,4649,2263,Peoria,5,5251,2375,266
+Des Moines,5,4649,2263,Springfield MO,5,4781,3156,383
+Detroit,5,6166,1872,Toledo,5,6129,2021,62
+Dodge City,5,3716,3125,Guymon,5,3491,3358,123
+Dodge City,5,3716,3125,Oklahoma City,5,4136,3580,254
+Dodge City,5,3716,3125,Vernon,5,3856,3863,277
+Dodge City,5,3716,3125,Wichita,5,4139,3126,154
+Dubuque,5,5037,2025,Chicago,5,5512,2095,176
+Dubuque,5,5037,2025,Davenport,5,5100,2204,70
+Dubuque,5,5037,2025,Des Moines,5,4649,2263,203
+Dubuque,5,5037,2025,Sioux City,5,4227,2117,325
+Duluth,5,4745,1167,Eau Claire,5,4875,1552,153
+Duluth,5,4745,1167,Escanaba,5,5458,1279,283
+Duluth,5,4745,1167,Green Bay,5,5369,1550,317
+Duluth,5,4745,1167,Marquette,5,5402,1129,253
+Duluth,5,4745,1167,Minneapolis,5,4662,1555,156
+Durango,5,3010,6064,Mazatlan,5,2795,6323,283
+Durango,5,3010,6064,Torreon,5,3262,5674,229
+Durango CO,5,2499,3222,Albuquerque,5,2666,3670,212
+Durango CO,5,2499,3222,Flagstaff,5,1865,3591,316
+Durango CO,5,2499,3222,Gallup,5,2327,3565,170
+Durango CO,5,2499,3222,Grand Canyon,5,1802,3407,318
+Durango CO,5,2499,3222,Raton,5,3036,3313,282
+Durango CO,5,2499,3222,Santa Fe,5,2783,3552,212
+Eau Claire,5,4875,1552,Green Bay,5,5369,1550,200
+Eau Claire,5,4875,1552,La Crosse,5,4942,1762,87
+Eau Claire,5,4875,1552,Madison,5,5226,1880,175
+Eau Claire,5,4875,1552,Minneapolis,5,4662,1555,97
+El Paso,5,2668,4318,Ft. Stockton,5,3273,4532,238
+El Paso,5,2668,4318,Juarez,5,2668,4320,5
+El Paso,5,2668,4318,Marathon,5,3196,4667,249
+El Paso,5,2668,4318,Odessa,5,3338,4309,281
+Ellensburg,5,896,939,Biggs,5,802,1213,118
+Ellensburg,5,896,939,Pendleton,5,1081,1258,168
+Ellensburg,5,896,939,Spokane,5,1340,884,175
+Ely,5,1458,2684,Bishop,5,860,3002,283
+Ely,5,1458,2684,Las Vegas,5,1335,3328,245
+Ely,5,1458,2684,Salina UT,5,1892,2862,225
+Ely,5,1458,2684,Spanish Fork,5,1931,2643,239
+Ely,5,1458,2684,St. George,5,1599,3168,215
+Ensenada,5,957,4182,San Quintin,5,1061,4474,190
+Escanaba,5,5458,1279,Green Bay,5,5369,1550,111
+Escanaba,5,5458,1279,Minneapolis,5,4662,1555,369
+Estes Park,5,2873,2583,Denver,5,2965,2706,63
+Eugene,5,415,1465,Bend,5,659,1526,115
+Eugene,5,415,1465,Grants Pass,5,309,1790,139
+Eugene,5,415,1465,Klamath Falls,5,520,1873,173
+Eureka,5,119,2102,Coos Bay,5,217,1587,221
+Eureka,5,119,2102,Redding,5,372,2197,154
+Eureka,5,119,2102,San Francisco,5,249,2779,281
+Everett,5,738,656,Ellensburg,5,896,939,130
+Everett,5,738,656,Seattle,5,682,768,28
+Everett,5,738,656,Wenatchee,5,942,852,126
+Fargo,5,4106,1214,Aberdeen,5,3902,1510,185
+Fargo,5,4106,1214,Bismarck,5,3583,1238,191
+Fargo,5,4106,1214,Duluth,5,4745,1167,255
+Fargo,5,4106,1214,Minneapolis,5,4662,1555,240
+Fargo,5,4106,1214,Watertown SD,5,4121,1606,144
+Felipe Carrillo Puerto,5,6122,6726,Cancun,5,6238,6512,226
+Felipe Carrillo Puerto,5,6122,6726,Valladolid,5,6023,6538,160
+Flagstaff,5,1865,3591,Gallup,5,2327,3565,189
+Flagstaff,5,1865,3591,Phoenix,5,1767,3923,136
+Florence,5,7029,3415,Columbia,5,6811,3497,79
+Florence,5,7029,3415,Mayrtle Beach,5,7150,3510,68
+Florence,5,7029,3415,Savannah,5,6885,3887,172
+Francisco Escarcega,5,5646,7059,Chetumal,5,6066,6979,273
+Fresno,5,612,3086,Bakersfield,5,695,3388,107
+Fresno,5,612,3086,San Luis Obispo,5,430,3352,127
+Ft. Scott,5,4545,3064,Ft. Smith,5,4631,3583,230
+Ft. Scott,5,4545,3064,Tulsa,5,4374,3420,158
+Ft. Scott,5,4545,3064,Wichita,5,4139,3126,152
+Ft. Smith,5,4631,3583,Little Rock,5,4970,3681,160
+Ft. Smith,5,4631,3583,Memphis,5,5337,3549,291
+Ft. Smith,5,4631,3583,Oklahoma City,5,4136,3580,180
+Ft. Smith,5,4631,3583,Texarkana,5,4714,3940,180
+Ft. Stockton,5,3273,4532,Austin,5,4138,4658,347
+Ft. Stockton,5,3273,4532,Del Rio,5,3597,4844,186
+Ft. Stockton,5,3273,4532,San Antonio,5,4012,4842,319
+Ft. Wayne,5,5916,2189,Columbus,5,6277,2348,156
+Ft. Wayne,5,5916,2189,Indianapolis,5,5808,2474,132
+Ft. Wayne,5,5916,2189,Pittsburgh,5,6701,2161,362
+Ft. Worth,5,4122,4122,Cisco,5,3849,4194,108
+Ft. Worth,5,4122,4122,Snyder,5,3586,4154,236
+Ft.Mayers,5,6987,5010,Miami,5,7302,5105,152
+Gainesville,5,6769,4480,Miami,5,7302,5105,333
+Gainesville,5,6769,4480,Orlando,5,6953,4571,112
+Gainesville,5,6769,4480,Tampa,5,6823,4768,130
+Gallup,5,2327,3565,Albuquerque,5,2666,3670,139
+Gallup,5,2327,3565,Socorro,5,2609,3873,191
+Gallup,5,2327,3565,Tucson,5,1924,4189,334
+Grand Canyon,5,1802,3407,Flagstaff,5,1865,3591,81
+Grand Canyon,5,1802,3407,Williams,5,1706,3591,59
+Grand Forks,5,4081,1003,Duluth,5,4745,1167,264
+Grand Forks,5,4081,1003,Fargo,5,4106,1214,78
+Grand Island,5,3777,2421,Kearney,5,3633,2510,51
+Grand Junction,5,2416,2832,Durango CO,5,2499,3222,170
+Grand Junction,5,2416,2832,Pueblo,5,3006,3017,285
+Grand Rapids,5,5773,1811,Chicago,5,5512,2095,175
+Grand Rapids,5,5773,1811,Detroit,5,6166,1872,156
+Grand Rapids,5,5773,1811,Toledo,5,6129,2021,186
+Grants Pass,5,309,1790,Eureka,5,119,2102,172
+Grants Pass,5,309,1790,Klamath Falls,5,520,1873,105
+Grants Pass,5,309,1790,Redding,5,372,2197,179
+Great Bend,5,3907,2987,Dodge City,5,3716,3125,85
+Great Bend,5,3907,2987,Grand Island,5,3777,2421,209
+Great Bend,5,3907,2987,Wichita,5,4139,3126,119
+Green Bay,5,5369,1550,La Crosse,5,4942,1762,199
+Green Bay,5,5369,1550,Madison,5,5226,1880,138
+Green Bay,5,5369,1550,Milwaukee,5,5434,1856,117
+Green River,5,2214,2845,Durango CO,5,2499,3222,213
+Green River,5,2214,2845,Gallup,5,2327,3565,302
+Green River,5,2214,2845,Grand Junction,5,2416,2832,101
+Greensboro,5,6900,3059,Asheville,5,6524,3228,170
+Greensboro,5,6900,3059,Charlotte,5,6861,3274,97
+Guadalajara,5,3236,6794,Colima,5,3161,7101,401
+Guadalajara,5,3236,6794,Manzanillo,5,3045,7078,278
+Guadalajara,5,3236,6794,Salamanca,5,3625,6883,260
+Guadalajara,5,3236,6794,Tepic,5,2929,6582,227
+Guanajuato,5,3633,6765,Salamanca,5,3625,6883,45
+Guaymas,5,1902,5059,Hermosillo,5,1859,4899,142
+Guymon,5,3491,3358,Amarillo,5,3440,3647,123
+Guymon,5,3491,3358,Tucumcari,5,3135,3662,166
+Hannibal,5,5017,2613,Jefferson City,5,4914,2870,108
+Hannibal,5,5017,2613,Kansas City,5,4550,2806,214
+Hannibal,5,5017,2613,St. Joseph,5,4489,2669,197
+Hannibal,5,5017,2613,St. Louis,5,5217,2808,116
+Harrisburg,5,7159,2083,Baltimore,5,7297,2242,87
+Harrisburg,5,7159,2083,Charleston WV,5,6552,2638,369
+Harrisburg,5,7159,2083,Pittsburgh,5,6701,2161,204
+Harrisburg,5,7159,2083,Roanoke,5,6851,2803,289
+Harrisburg,5,7159,2083,Washington,5,7212,2363,125
+Harrisburg,5,7159,2083,Youngstown,5,6557,2081,269
+Havre,5,2379,825,Great Falls,5,2163,1026,115
+Havre,5,2379,825,Mller City,5,2874,1317,344
+Havre,5,2379,825,Wet Glacier,5,1884,885,231
+Havre,5,2379,825,Williston,5,3188,954,307
+Hays,5,3762,2836,Great Bend,5,3907,2987,66
+Hays,5,3762,2836,Salina KS,5,4059,2830,95
+Helena,5,2037,1196,Butte,5,1955,1317,65
+Helena,5,2037,1196,Great Falls,5,2163,1026,91
+Helena,5,2037,1196,Livingston,5,2181,1568,124
+Helena,5,2037,1196,Mller City,5,2874,1317,387
+Hermosillo,5,1859,4899,Santa Ana,5,1838,4499,277
+Hidalgo del Parral,5,2659,5274,Chihuahua,5,2717,4947,187
+Hidalgo del Parral,5,2659,5274,Durango,5,3010,6064,411
+Hidalgo del Parral,5,2659,5274,Topolobampo,5,2233,5520,380
+Houlton,5,7994,536,Bangor,5,7967,835,121
+Houlton,5,7994,536,Calais,5,8147,694,91
+Houston,5,4549,4737,San Antonio,5,4012,4842,197
+Houston,5,4549,4737,Victoria,5,4270,4956,125
+Huizache,5,3810,6298,Ciudad Victoria,5,4097,6134,238
+Huizache,5,3810,6298,San Luis Potosi,5,3987,6419,108
+Huntsville,5,5889,3551,Birmigham,5,5888,3809,99
+Idaho Falls,5,1967,1855,Casper,5,2787,2059,375
+Idaho Falls,5,1967,1855,Rawlins,5,2637,2276,368
+Idaho Falls,5,1967,1855,Salt Lake City,5,1940,2428,208
+Idaho Falls,5,1967,1855,TwinFalls,5,1600,1998,161
+Iguala,5,4016,7312,Ciudad Altamirano,5,3807,7251,82
+Iguala,5,4016,7312,Cuernavaca,5,4060,7168,122
+Indianapolis,5,5808,2474,Cairo,5,5433,3109,311
+Indianapolis,5,5808,2474,Cincinnati,5,6077,2557,112
+Indianapolis,5,5808,2474,Grand Rapids,5,5773,1811,296
+Indianapolis,5,5808,2474,Louisville,5,5924,2780,114
+Indianapolis,5,5808,2474,Springfield IL,5,5267,2566,212
+Indianapolis,5,5808,2474,St. Louis,5,5217,2808,246
+International Falls,5,4547,834,Duluth,5,4745,1167,164
+International Falls,5,4547,834,Fargo,5,4106,1214,258
+International Falls,5,4547,834,Grand Forks,5,4081,1003,233
+Izucar de Matamoros,5,4257,7299,Cuernavaca,5,4060,7168,121
+Jackson,5,5366,4133,Alexandria,5,5021,4388,189
+Jackson,5,5366,4133,New Orleans,5,5444,4615,180
+Jackson,5,5366,4133,Shreveport,5,4778,4127,222
+Jacksoville,5,6858,4266,Augusta,5,6679,3639,264
+Jacksoville,5,6858,4266,Daytona Beach,5,7018,4481,90
+Jacksoville,5,6858,4266,Gainesville,5,6769,4480,73
+Jacksoville,5,6858,4266,Tallahassee,5,6415,4323,163
+Jalapa,5,4442,6973,Tlaxcala,5,4216,7024,189
+Janos,5,2378,4451,Agua Prieta,5,2160,4387,111
+Jefferson City,5,4914,2870,Ft. Scott,5,4545,3064,179
+Jefferson City,5,4914,2870,Springfield MO,5,4781,3156,134
+Juarez,5,2668,4320,Janos,5,2378,4451,161
+Kansas City,5,4550,2806,Ft. Scott,5,4545,3064,93
+Kansas City,5,4550,2806,Springfield MO,5,4781,3156,174
+Kansas City,5,4550,2806,St. Louis,5,5217,2808,253
+Kansas City,5,4550,2806,Wichita,5,4139,3126,192
+Kearney,5,3633,2510,Dakley,5,3524,2840,184
+Kearney,5,3633,2510,Dodge City,5,3716,3125,253
+Kearney,5,3633,2510,Hays,5,3762,2836,147
+Kearney,5,3633,2510,Lincolin,5,4175,2476,130
+Kit Carson,5,3279,2926,Amarillo,5,3440,3647,272
+Kit Carson,5,3279,2926,Pueblo,5,3006,3017,132
+Kit Carson,5,3279,2926,Raton,5,3036,3313,189
+Klamath Falls,5,520,1873,Lakeview,5,759,1942,99
+Klamath Falls,5,520,1873,Redding,5,372,2197,142
+Klamath Falls,5,520,1873,Reno,5,712,2506,260
+Knoxville,5,6293,3195,Asheville,5,6524,3228,115
+Knoxville,5,6293,3195,Atlanta,5,6280,3650,215
+Knoxville,5,6293,3195,Chattanoga,5,6109,3410,114
+Knoxville,5,6293,3195,Nashville,5,5837,3228,178
+La Crosse,5,4942,1762,Albert Lea,5,4640,1828,126
+La Crosse,5,4942,1762,Dubuque,5,5037,2025,127
+La Crosse,5,4942,1762,Madison,5,5226,1880,141
+La Paz,5,1911,5965,Cabo San Lucas,5,1986,6157,163
+Lake Charles,5,4912,4620,Houston,5,4549,4737,146
+Lake Village,5,5163,3946,Alexandria,5,5021,4388,184
+Lake Village,5,5163,3946,New Orleans,5,5444,4615,316
+Lakeview,5,759,1942,Redding,5,372,2197,200
+Lakeview,5,759,1942,Reno,5,712,2506,238
+Lakeview,5,759,1942,Winnemucca,5,1074,2264,215
+Laredo TX,5,3850,5231,Brownsville,5,4206,5550,203
+Laredo TX,5,3850,5231,Del Rio,5,3597,4844,178
+Laredo TX,5,3850,5231,Nuevo Laredo,5,3851,5222,7
+Las Vegas,5,1335,3328,Barstow,5,999,3543,155
+Las Vegas,5,1335,3328,Needles,5,1382,3603,109
+Las Vegas,5,1335,3328,Page,5,1980,3283,275
+Las Vegas,5,1335,3328,Phoenix,5,1767,3923,287
+Las Vegas,5,1335,3328,Williams,5,1706,3591,216
+Lexington,5,6123,2784,Cairo,5,5433,3109,297
+Lexington,5,6123,2784,Knoxville,5,6293,3195,173
+Lexington,5,6123,2784,Nashville,5,5837,3228,214
+Lincoln,5,4175,2476,Salina KS,5,4059,2830,188
+Lincoln,5,4175,2476,St. Joseph,5,4489,2669,150
+Lincoln,5,4175,2476,Wichita,5,4139,3126,277
+Little Rock,5,4970,3681,Alexandria,5,5021,4388,247
+Little Rock,5,4970,3681,Lake Village,5,5163,3946,125
+Little Rock,5,4970,3681,Shreveport,5,4778,4127,215
+Little Rock,5,4970,3681,Texarkana,5,4714,3940,141
+Livingston,5,2181,1568,Bilings,5,2502,1417,115
+Livingston,5,2181,1568,Idaho Falls,5,1967,1855,222
+Livingston,5,2181,1568,Mammoth Hot Springs,5,2180,1566,59
+Lordsburg,5,2305,4193,El Paso,5,2668,4318,162
+Los Angeles,5,775,3677,Blythe,5,1350,3846,223
+Los Angeles,5,775,3677,San Diego,5,919,3981,124
+Los Angeles,5,775,3677,Yuma,5,1333,4032,291
+Louisville,5,5924,2780,Cairo,5,5433,3109,258
+Louisville,5,5924,2780,Lexington,5,6123,2784,79
+Louisville,5,5924,2780,Park City,5,5866,3061,91
+Lubbock,5,3439,4012,Odessa,5,3338,4309,104
+Lubbock,5,3439,4012,Snyder,5,3586,4154,84
+Lubbock,5,3439,4012,Vernon,5,3856,3863,181
+Mackinaw,5,5806,1227,Escanaba,5,5458,1279,147
+Mackinaw,5,5806,1227,Grand Rapids,5,5773,1811,220
+Mackinaw,5,5806,1227,Saginaw,5,6003,1680,192
+Madison,5,5226,1880,Chicago,5,5512,2095,145
+Madison,5,5226,1880,Dubuque,5,5037,2025,94
+Madison,5,5226,1880,Peoria,5,5251,2375,203
+Mammoth Hot Springs,5,2180,1566,cody,5,2491,1667,133
+Manzanillo,5,3045,7078,Colima,5,3161,7101,80
+Manzanillo,5,3045,7078,Playa Azul,5,3488,7309,275
+Marathon,5,3196,4667,Del Rio,5,3597,4844,175
+Marquette,5,5402,1129,Escanaba,5,5458,1279,65
+Marquette,5,5402,1129,Mackinaw,5,5806,1227,168
+Matamoros,5,4206,5555,Reynosa,5,4106,5536,98
+Matamoros,5,4206,5555,Brownsville,5,4206,5550,1
+Mayrtle Beach,5,7150,3510,Charleston SC,5,7039,3701,97
+Mazatlan,5,2795,6323,Culiacan,5,2523,5878,226
+Mazatlan,5,2795,6323,Tepic,5,2926,6586,278
+Memphis,5,5337,3549,Birmigham,5,5888,3809,247
+Memphis,5,5337,3549,Columbus,5,5631,3853,180
+Memphis,5,5337,3549,Corinth,5,5582,3550,93
+Memphis,5,5337,3549,Jackson,5,5366,4133,213
+Memphis,5,5337,3549,Lake Village,5,5163,3946,168
+Memphis,5,5337,3549,Little Rock,5,4970,3681,137
+Merida,5,5811,6550,Campeche,5,5684,6810,192
+Meridian,5,5611,4094,Baton Rouge,5,5251,4545,253
+Meridian,5,5611,4094,Jackson,5,5366,4133,93
+Meridian,5,5611,4094,Mobile,5,5771,4427,133
+Meridian,5,5611,4094,New Orleans,5,5444,4615,196
+Mexicalli,5,1325,4040,San Felipe,5,1177,4378,204
+Mexicalli,5,1325,4040,Tijuana,5,919,4000,189
+Mexico,5,4057,7037,Cuernavaca,5,4060,7168,76
+Mexico,5,4057,7037,Pachuca,5,4100,6810,88
+Mexico,5,4057,7037,Puebla,5,4242,7152,133
+Mexico,5,4057,7037,Queretaro,5,3868,6765,215
+Mexico,5,4057,7037,Tlaxcala,5,4216,7024,156
+Mexico,5,4057,7037,Toluca,5,3964,7062,66
+Miami,5,7302,5105,Keywest,5,7057,5358,164
+Milwaukee,5,5434,1856,Chicago,5,5512,2095,92
+Milwaukee,5,5434,1856,Madison,5,5226,1880,77
+Minneapolis,5,4662,1555,Albert Lea,5,4640,1828,98
+Minneapolis,5,4662,1555,Decorah,5,4877,1878,178
+Minneapolis,5,4662,1555,La Crosse,5,4942,1762,160
+Minneapolis,5,4662,1555,Omaha,5,4298,2366,380
+Minneapolis,5,4662,1555,Sioux City,5,4227,2117,300
+Minneapolis,5,4662,1555,Sioux Falls,5,4165,1889,269
+Minot,5,3501,952,Aberdeen,5,3902,1510,273
+Minot,5,3501,952,Bismarck,5,3583,1238,111
+Minot,5,3501,952,Fargo,5,4106,1214,260
+Minot,5,3501,952,Grand Forks,5,4081,1003,210
+Missoula,5,1784,1115,Boise,5,1377,1740,371
+Missoula,5,1784,1115,Butte,5,1955,1317,119
+Missoula,5,1784,1115,Helena,5,2037,1196,112
+Missoula,5,1784,1115,TwinFalls,5,1600,1998,471
+Mller City,5,2874,1317,Aberdeen,5,3902,1510,473
+Mller City,5,2874,1317,Billings,5,2502,1417,145
+Mller City,5,2874,1317,Great Falls,5,2163,1026,327
+Mller City,5,2874,1317,Rapid City,5,3228,1802,233
+Mller City,5,2874,1317,Sheridan,5,2709,1640,205
+Mobile,5,5771,4427,Baton Rouge,5,5251,4545,195
+Mobile,5,5771,4427,New Orleans,5,5444,4615,148
+Mobile,5,5771,4427,Tallahassee,5,6415,4323,240
+Monclova,5,3564,5395,Piedras Negras,5,3686,4966,236
+Monclova,5,3564,5395,Torreon,5,3262,5674,332
+Monterrey,5,3790,5578,Ciudad Victoria,5,4097,6134,276
+Monterrey,5,3790,5578,Monclova,5,3564,5395,194
+Monterrey,5,3790,5578,Nuevo Laredo,5,3851,5222,230
+Montgomery,5,6013,4028,Meridian,5,5611,4094,152
+Montgomery,5,6013,4028,Mobile,5,5771,4427,170
+Montgomery,5,6013,4028,Tallahassee,5,6415,4323,214
+Montgomery,5,6013,4028,Tifton,5,6505,4099,207
+Morelia,5,3668,7030,Playa Azul,5,3488,7309,369
+Morelia,5,3668,7030,Salamanca,5,3625,6883,111
+Nashville,5,5837,3228,Chattanoga,5,6109,3410,128
+Nashville,5,5837,3228,Huntsville,5,5889,3551,122
+Nashville,5,5837,3228,Memphis,5,5337,3549,210
+Needles,5,1382,3603,Blythe,5,1350,3846,97
+Needles,5,1382,3603,Williams,5,1706,3591,178
+New York,5,7549,1877,Atlantic City,5,7545,2177,141
+New York,5,7549,1877,Harrisburg,5,7159,2083,198
+New York,5,7549,1877,Newport,5,7892,1592,182
+New York,5,7549,1877,Philadelphia,5,7410,2084,109
+New York,5,7549,1877,Youngstown,5,6557,2081,416
+Newport,5,318,1316,Coos Bay,5,217,1587,99
+Nogales,5,1912,4380,Nogales AZ,5,1912,4377,1
+Nogales,5,1912,4380,Santa Ana,5,1838,4499,147
+Norfolk,5,7429,2742,Raleigh,5,7126,3047,175
+Norfolk,5,7429,2742,Wilmington,5,7307,3333,270
+North Platte,5,3435,2415,Cheyenne,5,3003,2422,221
+North Platte,5,3435,2415,Dakley,5,3524,2840,158
+North Platte,5,3435,2415,Denver,5,2965,2706,262
+North Platte,5,3435,2415,Kearney,5,3633,2510,101
+North Platte,5,3435,2415,Kit Carson,5,3279,2926,269
+Nuevo Laredo,5,3851,5222,Piedras Negras,5,3686,4966,164
+Oaxaca,5,4483,7539,Izucar de Matamoros,5,4257,7299,121
+Oaxaca,5,4483,7539,Puerto Angel,5,4561,7754,170
+Oaxaca,5,4483,7539,Tehuacan,5,4376,7283,140
+Odessa,5,3338,4309,Ft. Stockton,5,3273,4532,85
+Oklahoma,5,4136,3580,Amarillo,5,3440,3647,259
+Oklahoma,5,4136,3580,Atoka,5,4371,3791,135
+Oklahoma,5,4136,3580,Dallas,5,4276,4124,208
+Oklahoma,5,4136,3580,Ft. Smith,5,4631,3583,180
+Oklahoma,5,4136,3580,Vernon,5,3856,3863,172
+Omaha,5,4298,2366,Lincoln,5,4175,2476,58
+Omaha,5,4298,2366,St. Joseph,5,4489,2669,136
+Omaha,5,4298,2366,Tulsa,5,4374,3420,435
+Orlando,5,6953,4571,Cocoa,5,7106,4624,51
+Orlando,5,6953,4571,Tampa,5,6823,4768,84
+Pachuca,5,4100,6810,Tuxpan,5,4283,6614,261
+Page,5,1980,3283,Flagstaff,5,1865,3591,137
+Page,5,1980,3283,Gallup,5,2327,3565,314
+Page,5,1980,3283,Grand Canyon,5,1802,3407,139
+Park City,5,5866,3061,Nashville,5,5837,3228,85
+Pendleton,5,1081,1258,Boise,5,1377,1740,219
+Pendleton,5,1081,1258,Burns,5,962,1686,199
+Pendleton,5,1081,1258,Missoula,5,1784,1115,356
+Peoria,5,5251,2375,Ft. Wayne,5,5916,2189,329
+Peoria,5,5251,2375,Hannibal,5,5017,2613,143
+Peoria,5,5251,2375,Indianapolis,5,5808,2474,213
+Peoria,5,5251,2375,Springfield IL,5,5267,2566,71
+Philadelphia,5,7410,2084,Atlantic City,5,7545,2177,61
+Philadelphia,5,7410,2084,Baltimore,5,7297,2242,104
+Philadelphia,5,7410,2084,Harrisburg,5,7159,2083,114
+Philadelphia,5,7410,2084,Norfolk,5,7429,2742,270
+Phoenix,5,1767,3923,Lordsburg,5,2305,4193,275
+Phoenix,5,1767,3923,Socorro,5,2609,3873,377
+Phoenix,5,1767,3923,Tucson,5,1924,4189,117
+Pierre,5,3653,1727,Grand Island,5,3777,2421,318
+Pierre,5,3653,1727,North Platte,5,3435,2415,264
+Pierre,5,3653,1727,Rapid City,5,3228,1802,191
+Pierre,5,3653,1727,Sioux Falls,5,4165,1889,347
+Pinotepa Nacional,5,4309,7693,Acapulco,5,3970,7565,259
+Pittsburgh,5,6701,2161,Charleston WV,5,6552,2638,229
+Pittsburgh,5,6701,2161,Columbus,5,6277,2348,187
+Pittsburgh,5,6701,2161,Roanoke,5,6851,2803,347
+Pittsburgh,5,6701,2161,Washington,5,7212,2363,251
+Playa Azul,5,3488,7309,Zihuatanejo,5,3683,7456,122
+Poplar Bluff,5,5248,3196,Little Rock,5,4970,3681,199
+Poplar Bluff,5,5248,3196,Memphis,5,5337,3549,159
+Port Angeles,5,523,614,Astoria,5,421,1008,217
+Port Angeles,5,523,614,Everett,5,738,656,80
+Port Angeles,5,523,614,Seattle,5,682,768,70
+Portland,5,545,1179,Bend,5,659,1526,162
+Portland,5,545,1179,Biggs,5,802,1213,102
+Portland,5,7860,1131,Boston,5,7845,1429,108
+Portland,5,7860,1131,Concord,5,7694,1286,96
+Portland,5,545,1179,Eugene,5,415,1465,109
+Portland,5,7860,1131,HullsCove,5,8091,890,177
+Portland,5,545,1179,Newport,5,318,1316,133
+Puebla,5,4242,7152,Cordoba,5,4518,7139,188
+Puebla,5,4242,7152,Izucar de Matamoros,5,4257,7299,115
+Pueblo,5,3006,3017,Dodge City,5,3716,3125,274
+Pueblo,5,3006,3017,Durango CO,5,2499,3222,270
+Pueblo,5,3006,3017,Great Bend,5,3907,2987,424
+Pueblo,5,3006,3017,Raton,5,3036,3313,108
+Puerto Angel,5,4561,7754,Pinotepa Nacional,5,4309,7693,387
+Puerto Vallarta,5,2839,6784,Manzanillo,5,3045,7078,267
+Raleigh,5,7126,3047,Charlotte,5,6861,3274,168
+Raleigh,5,7126,3047,Columbia,5,6811,3497,228
+Raleigh,5,7126,3047,Florence,5,7029,3415,171
+Raleigh,5,7126,3047,Greensboro,5,6900,3059,78
+Raleigh,5,7126,3047,Wilmington,5,7307,3333,130
+Rapid City,5,3228,1802,Casper,5,2787,2059,251
+Rapid City,5,3228,1802,Cheyenne,5,3003,2422,300
+Rapid City,5,3228,1802,North Platte,5,3435,2415,318
+Rapid City,5,3228,1802,Sioux City,5,4227,2117,429
+Rapid City,5,3228,1802,Sioux Falls,5,4165,1889,224
+Raton,5,3036,3313,Amarillo,5,3440,3647,214
+Raton,5,3036,3313,Guymon,5,3491,3358,188
+Raton,5,3036,3313,Santa Fe,5,2783,3552,170
+Raton,5,3036,3313,Tucumcari,5,3135,3662,177
+Rawlins,5,2637,2276,Cheyenne,5,3003,2422,150
+Rawlins,5,2637,2276,Craig,5,2573,2536,118
+Rawlins,5,2637,2276,Estes Park,5,2873,2583,231
+Redding,5,372,2197,Reno,5,712,2506,201
+Redding,5,372,2197,Sacramento,5,425,2653,163
+Redding,5,372,2197,San Francisco,5,249,2779,215
+Reno,5,712,2506,Bishop,5,860,3002,205
+Reno,5,712,2506,Ely,5,1458,2684,317
+Reno,5,712,2506,Las Vegas,5,1335,3328,445
+Reno,5,712,2506,Sacramento,5,425,2653,133
+Reynosa,5,4106,5536,Nuevo Laredo,5,3851,5222,237
+Richmond,5,7221,2646,Charleston WV,5,6552,2638,331
+Richmond,5,7221,2646,Greensboro,5,6900,3059,201
+Richmond,5,7221,2646,Norfolk,5,7429,2742,93
+Richmond,5,7221,2646,Raleigh,5,7126,3047,148
+Richmond,5,7221,2646,Roanoke,5,6851,2803,186
+Richmond,5,7221,2646,Wilmington,5,7307,3333,259
+Roanoke,5,6851,2803,Asheville,5,6524,3228,254
+Roanoke,5,6851,2803,Greensboro,5,6900,3059,98
+Roanoke,5,6851,2803,Knoxville,5,6293,3195,257
+Roanoke,5,6851,2803,Raleigh,5,7126,3047,172
+Roswell,5,3000,4011,Carlsbad,5,3119,4234,77
+Roswell,5,3000,4011,El Paso,5,2668,4318,204
+Roswell,5,3000,4011,Lordsburg,5,2305,4193,305
+Roswell,5,3000,4011,Lubbock,5,3439,4012,176
+Roswell,5,3000,4011,Snyder,5,3586,4154,233
+Sacramento,5,425,2653,Fresno,5,612,3086,164
+Sacramento,5,425,2653,San Francisco,5,249,2779,91
+Sacramento,5,425,2653,Yosemite Nat´l Park,5,730,2902,191
+Saginaw,5,6003,1680,Detroit,5,6166,1872,101
+Saginaw,5,6003,1680,Toledo,5,6129,2021,142
+Salamanca,5,3625,6883,Queretaro,5,3868,6765,87
+Salina KS,5,1892,2862,Green River,5,2214,2845,109
+Salina KS,5,1892,2862,Page,5,1980,3283,238
+Salina KS,5,1892,2862,Springdale,5,1696,3182,186
+Salina UT,5,4059,2830,Great Bend,5,3907,2987,81
+Salina UT,5,4059,2830,Kansas City,5,4550,2806,176
+Salt Lake City,5,1940,2428,Craig,5,2573,2536,294
+Salt Lake City,5,1940,2428,Ely,5,1458,2684,241
+Salt Lake City,5,1940,2428,Rawlins,5,2637,2276,465
+Salt Lake City,5,1940,2428,Spanish Fork,5,1931,2643,51
+Saltillo,5,3607,5638,Huizache,5,3810,6298,344
+Saltillo,5,3607,5638,Monclova,5,3564,5395,203
+Saltillo,5,3607,5638,Monterrey,5,3790,5578,86
+San Angelo,5,3670,4425,Del Rio,5,3597,4844,155
+San Angelo,5,3670,4425,Ft. Stockton,5,3273,4532,163
+San Angelo,5,3670,4425,San Antonio,5,4012,4842,213
+San Antonio,5,4012,4842,Brownsville,5,4206,5550,278
+San Antonio,5,4012,4842,Laredo TX,5,3850,5231,150
+San Antonio,5,4012,4842,Victoria,5,4270,4956,116
+San Diego,5,919,3981,Tijuana,5,919,4000,3
+San Diego,5,919,3981,Yuma,5,1333,4032,172
+San Felipe,5,1177,4378,Ensenada,5,957,4182,251
+San Francisco,5,249,2779,Bakersfield,5,695,3388,282
+San Francisco,5,249,2779,Fresno,5,612,3086,182
+San Francisco,5,249,2779,San Luis Obispo,5,430,3352,227
+San Luis Obispo,5,430,3352,Los Angeles,5,775,3677,195
+San Luis Potosi,5,3987,6419,Aguascalientes,5,3410,6528,188
+San Luis Potosi,5,3987,6419,Queretaro,5,3868,6765,205
+San Luis Potosi,5,3987,6419,Zacatecas,5,3401,6301,128
+San Quintin,5,1061,4474,Santa Rosalia,5,1592,5213,605
+Santa Ana,5,1838,4499,Sonoita,5,1479,4176,362
+Santa Fe,5,2783,3552,Albuquerque,5,2666,3670,58
+Santa Fe,5,2783,3552,Tucumcari,5,3135,3662,167
+Santa Fe,5,2783,3552,Vaughn,5,2891,3775,95
+Santa Rosalia,5,1592,5213,Santo Domingo,5,1661,5664,317
+Santo Domingo,5,1661,5664,La Paz,5,1911,5965,236
+Sault Ste. Marie,5,5829,1077,Escanaba,5,5458,1279,174
+Sault Ste. Marie,5,5829,1077,Mackinaw,5,5806,1227,56
+Sault Ste. Marie,5,5829,1077,Marquette,5,5402,1129,167
+Savannah,5,6885,3887,Jacksoville,5,6858,4266,140
+Savannah,5,6885,3887,Montgomery,5,6013,4028,347
+Savannah,5,6885,3887,Tallahassee,5,6415,4323,299
+Scranton,5,7272,1810,Harrisburg,5,7159,2083,122
+Scranton,5,7272,1810,New York,5,7549,1877,141
+Scranton,5,7272,1810,Philadelphia,5,7410,2084,127
+Seattle,5,682,768,Astoria,5,421,1008,185
+Seattle,5,682,768,Ellensburg,5,896,939,107
+Seattle,5,682,768,Portland,5,545,1179,174
+Sheridan,5,2709,1640,Casper,5,2787,2059,153
+Sheridan,5,2709,1640,cody,5,2491,1667,148
+Sheridan,5,2709,1640,Rapid City,5,3228,1802,247
+Shreveport,5,4778,4127,Alexandria,5,5021,4388,124
+Shreveport,5,4778,4127,Austin,5,4138,4658,327
+Shreveport,5,4778,4127,Houston,5,4549,4737,236
+Sioux City,5,4227,2117,Des Moines,5,4649,2263,200
+Sioux City,5,4227,2117,Grand Island,5,3777,2421,190
+Sioux City,5,4227,2117,Lincoln,5,4175,2476,155
+Sioux City,5,4227,2117,Omaha,5,4298,2366,97
+Sioux Falls,5,4165,1889,Albert Lea,5,4640,1828,176
+Sioux Falls,5,4165,1889,Dubuque,5,5037,2025,376
+Sioux Falls,5,4165,1889,Sioux City,5,4227,2117,85
+Snyder,5,3586,4154,Brownwood,5,3843,4316,160
+Snyder,5,3586,4154,Carlsbad,5,3119,4234,203
+Snyder,5,3586,4154,San Angelo,5,3670,4425,97
+Socorro,5,2609,3873,El Paso,5,2668,4318,189
+Socorro,5,2609,3873,Lordsburg,5,2305,4193,216
+Socorro,5,2609,3873,Roswell,5,3000,4011,163
+Sonoita,5,1479,4176,Mexicalli,5,1151,3994,271
+Spanish Fork,5,1931,2643,Green River,5,2214,2845,133
+Spanish Fork,5,1931,2643,Salina UT,5,1892,2862,96
+Spokane,5,1340,884,Biggs,5,802,1213,245
+Spokane,5,1340,884,Boise,5,1377,1740,385
+Spokane,5,1340,884,Missoula,5,1784,1115,199
+Spokane,5,1340,884,Pendleton,5,1081,1258,200
+Springdale,5,1696,3182,Page,5,1980,3283,117
+Springdale,5,1696,3182,St. George,5,1599,3168,43
+Springfield IL,5,5267,2566,Cairo,5,5433,3109,242
+Springfield IL,5,5267,2566,Hannibal,5,5017,2613,106
+Springfield MO,5,4781,3156,Atoka,5,4371,3791,296
+Springfield MO,5,4781,3156,Little Rock,5,4970,3681,219
+Springfield MO,5,4781,3156,Memphis,5,5337,3549,281
+Springfield MO,5,4781,3156,Poplar Bluff,5,5248,3196,191
+Springfield MO,5,4781,3156,Tulsa,5,4374,3420,183
+St. George,5,1599,3168,Las Vegas,5,1335,3328,119
+St. George,5,1599,3168,Spanish Fork,5,1931,2643,247
+St. Joseph,5,4489,2669,Kansas City,5,4550,2806,64
+St. Joseph,5,4489,2669,Salina KS,5,4059,2830,212
+St. Louis,5,5217,2808,Cairo,5,5433,3109,150
+St. Louis,5,5217,2808,Jefferson City,5,4914,2870,133
+St. Louis,5,5217,2808,Louisville,5,5924,2780,258
+St. Louis,5,5217,2808,Poplar Bluff,5,5248,3196,151
+St. Louis,5,5217,2808,Springfield IL,5,5267,2566,100
+St. Louis,5,5217,2808,Springfield MO,5,4781,3156,208
+Syracuse,5,7112,1509,Buffalo,5,6755,1643,154
+Syracuse,5,7112,1509,Scranton,5,7272,1810,135
+Tallahassee,5,6415,4323,Gainesville,5,6769,4480,149
+Tallahassee,5,6415,4323,Tampa,5,6823,4768,275
+Tampa,5,6823,4768,Ft.Mayers,5,6987,5010,129
+Tampa,5,6823,4768,Vero Beach,5,7187,4759,134
+Tampico,5,4208,6394,Queretaro,5,3865,6758,380
+Tampico,5,4208,6394,San Luis Potosi,5,3987,6419,254
+Tapachula,5,5330,7830,Thehuantepec,5,5156,7523,418
+Tehuacan,5,4376,7283,Cordoba,5,4518,7139,120
+Tehuacan,5,4376,7283,Puebla,5,4242,7152,90
+Tehuantepec,5,4785,7629,Oaxaca,5,4483,7539,264
+Tehuantepec,5,4785,7629,Puerto Angel,5,4561,7754,194
+Tehuantepec,5,4785,7629,Tuxtla Gutierrez,5,5156,7523,275
+Tepic,5,2926,6586,Puerto Vallarta,5,2839,6784,169
+Texarkana,5,4714,3940,Austin,5,4138,4658,375
+Texarkana,5,4714,3940,Dallas,5,4276,4124,180
+Texarkana,5,4714,3940,Houston,5,4549,4737,294
+Texarkana,5,4714,3940,Lake Village,5,5163,3946,180
+Texarkana,5,4714,3940,Shreveport,5,4778,4127,71
+Tifton,5,6505,4099,Gainesville,5,6769,4480,151
+Tifton,5,6505,4099,Jacksoville,5,6858,4266,166
+Tifton,5,6505,4099,Tallahassee,5,6415,4323,90
+Tijuana,5,919,4000,Ensenada,5,957,4182,108
+Toledo,5,6129,2021,Chicago,5,5512,2095,244
+Toledo,5,6129,2021,Columbus,5,6277,2348,144
+Toledo,5,6129,2021,Ft. Wayne,5,5916,2189,108
+Toledo,5,6129,2021,Youngstown,5,6557,2081,76
+Toluca,5,3964,7062,Atlacomulco,5,3938,6934,67
+Toluca,5,3964,7062,Morelia,5,3668,7030,243
+Topolobampo,5,2233,5520,Ciudad Obregon,5,2038,5174,201
+Torreon,5,3262,5674,Chihuahua,5,2717,4947,460
+Torreon,5,3262,5674,Saltillo,5,3607,5638,277
+Tucson,5,1924,4189,Lordsburg,5,2305,4193,158
+Tucson,5,1924,4189,Nogales AZ,5,1912,4377,64
+Tucumcari,5,3135,3662,Amarillo,5,3440,3647,113
+Tucumcari,5,3135,3662,Clovis,5,3226,3817,84
+Tucumcari,5,3135,3662,Vaughn,5,2891,3775,98
+Tulsa,5,4374,3420,Atoka,5,4371,3791,135
+Tulsa,5,4374,3420,Ft. Smith,5,4631,3583,116
+Tulsa,5,4374,3420,Oklahoma City,5,4136,3580,105
+Tuxpan,5,4283,6614,Tampico,5,4208,6394,193
+Tuxpan,5,4283,6614,Veracruz,5,4576,7072,313
+Tuxtla Gutierrez,5,5156,7523,Villa Hermosa,5,5254,7254,395
+TwinFalls,5,1600,1998,Rawlins,5,2637,2276,465
+TwinFalls,5,1600,1998,Salt Lake City,5,1940,2428,218
+TwinFalls,5,1600,1998,Wells,5,1498,2291,118
+Valladolid,5,6023,6538,Merida,5,5811,6550,180
+Vaughn,5,2891,3775,Clovis,5,3226,3817,113
+Vaughn,5,2891,3775,Roswell,5,3000,4011,95
+Vaughn,5,2891,3775,Socorro,5,2609,3873,133
+Veracruz,5,4576,7072,Alvarado,5,4686,7219,150
+Veracruz,5,4576,7072,Jalapa,5,4442,6973,119
+Vernon,5,3856,3863,Cisco,5,3849,4194,139
+Vernon,5,3856,3863,Ft. Worth,5,4122,4122,169
+Vernon,5,3856,3863,Texarkana,5,4714,3940,345
+Vero Beach,5,7187,4759,Miami,5,7302,5105,136
+Victoria,5,4270,4956,Corpus Christi,5,4193,5160,93
+Victoria,5,4270,4956,Laredo TX,5,3850,5231,187
+Villa Hermosa,5,5254,7254,Francisco Escarcega,5,5646,7059,304
+Washington,5,7212,2363,Charleston WV,5,6552,2638,369
+Washington,5,7212,2363,Richmond,5,7221,2646,106
+Washington,5,7212,2363,Roanoke,5,6851,2803,236
+Watertown NY,5,7097,1321,Buffalo,5,6755,1643,217
+Watertown NY,5,7097,1321,Syracuse,5,7112,1509,72
+Watertown SD,5,4121,1606,Minneapolis,5,4662,1555,212
+Watertown SD,5,4121,1606,Sioux Falls,5,4165,1889,103
+Wells,5,1498,2291,Ely,5,1458,2684,140
+Wells,5,1498,2291,Salt Lake City,5,1940,2428,181
+Wenatchee,5,942,852,Spokane,5,1340,884,172
+Wet Glacier,5,1884,885,Great Falls,5,2163,1026,211
+Wet Glacier,5,1884,885,Helena,5,2037,1196,243
+Wet Glacier,5,1884,885,Missoula,5,1784,1115,151
+Wichita,5,4139,3126,Guymon,5,3491,3358,253
+Wichita,5,4139,3126,Oklahoma City,5,4136,3580,157
+Wichita,5,4139,3126,Springfield MO,5,4781,3156,287
+Wichita,5,4139,3126,Tulsa,5,4374,3420,174
+Williams,5,1706,3591,Blythe,5,1350,3846,222
+Williams,5,1706,3591,Flagstaff,5,1865,3591,32
+Williston,5,3188,954,Minot,5,3501,952,126
+Williston,5,3188,954,Mller City,5,2874,1317,184
+Williston,5,3188,954,Rapid City,5,3228,1802,352
+Wilmington,5,7307,3333,Charlotte,5,6861,3274,204
+Wilmington,5,7307,3333,Florence,5,7029,3415,119
+Wilmington,5,7307,3333,Mayrtle Beach,5,7150,3510,69
+Winnemucca,5,1074,2264,Bishop,5,860,3002,319
+Winnemucca,5,1074,2264,Ely,5,1458,2684,271
+Winnemucca,5,1074,2264,Las Vegas,5,1335,3328,466
+Winnemucca,5,1074,2264,Reno,5,712,2506,164
+Winnemucca,5,1074,2264,Wells,5,1498,2291,175
+Yosemite Nat´l Park,5,730,2902,Bishop,5,860,3002,136
+Yosemite Nat´l Park,5,730,2902,Fresno,5,612,3086,92
+Youngstown,5,6557,2081,Pittsburgh,5,6701,2161,80
+Yuma,5,1333,4032,Phoenix,5,1767,3923,182
+Yuma,5,1333,4032,          Tucson,5,1924,4189,237
+Yuma,5,1333,4032,Mexicalli,5,1325,4040,15
+Zacatecas,5,3401,6301,Aguascalientes,5,3410,6528,128
+Zacatecas,5,3401,6301,Durango,5,3010,6064,289
+Zacatecas,5,3401,6301,Guadalajara,5,3236,6794,318
+Zacatecas,5,3401,6301,Saltillo,5,3607,5638,363
+Zacatecas,5,3401,6301,Torreon,5,3262,5674,376
+Zihuatanejo,5,3683,7456,Acapulco,5,3970,7565,239
